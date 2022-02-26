@@ -1,5 +1,5 @@
 Package: data.reports
-Title: NNA-IRPS Data Report - 2020 Field Season, Prudhoe Bay)
+Title: NNA-IRPS Data Report - 2020 Field Season, Prudhoe Bay
 Version: 0.0.0.9000
 Authors@R: 
     person("Peirce", "Jana", , "jlpeirce@alaska.edu", role = c("aut", "cre"))
