@@ -1,0 +1,12 @@
+Package: data.reports
+Title: NNA-IRPS Data Report - 2020 Field Season, Prudhoe Bay)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Peirce", "Jana", , "jlpeirce@alaska.edu", role = c("aut", "cre"))
+Description: This data report covers field seasons in 2020 and 2021 at the NNA-IRPS field sites in the Prudhoe Bay Oilfield (PBO). The 2020 field season was abbreviated because of the Covid restrictions on travel and access to hotel facilities in the PBO. Field work was conducted from a field camp situated approximately 14 km south of Deadhorse. The primary goals were to (1) conduct a reconnaissance of a new Natural Ice-Rich Permafrost Observatory (NIRPO), (2) monitor late-season thaw depths, water-depths, ice-wedge polygon microrelief contrasts, and vegetation distribution along six previously established transects in the PBO, and (3) provide training and field-site overview for a new graduate student and post doc. Goals, participants, schedule, and observations during the 2020 field season are in this report, including information from previously established transects and permafrost boreholes, as well information obtained from the NIRPO reconnaissance and photos of degrading polygon troughs at the Airport site.
+License: MIT + file LICENSE
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
